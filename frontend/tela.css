@@ -1,0 +1,62 @@
+.container{
+    background-color: rgba(0, 0, 0, 0.562);
+    
+}
+ 
+h4{
+    text-align: center;
+}
+
+
+header{
+    width: auto;
+    height: auto;
+    background-color: rgb(0, 89, 255);
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+  
+}
+
+
+.linha-0{
+
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+    
+.linha-0 nav{
+  
+    display: flex;
+    justify-content: center;
+}
+
+.linha-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+    
+.linha-1 nav{
+  
+    display: flex;
+    justify-content: center;
+}
+
+.linha-2{
+
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+    
+.linha-2 nav{
+  
+    display: flex;
+    justify-content: center;
+}

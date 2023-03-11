@@ -1,0 +1,44 @@
+.area-login{
+  display: flex;
+    width: auto;
+    height: auto;
+    justify-content: center;
+    align-items:center;
+   
+   
+}
+.login form{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+   
+}
+.login input{
+    margin-top: 20px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    height: 50px;
+    outline: none;
+    border-radius: 10px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.input::placeholder{
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    align-items:center ;
+}
+
+form [type="submit"]{
+    display: block;
+    background-color: #0051ff;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.but{
+    border: none;
+}
