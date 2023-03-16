@@ -16,47 +16,41 @@ header{
     font-family:'Times New Roman', Times, serif;
   
 }
-
-
-.linha-0{
-
-   
-    display: flex;
-    justify-content: center;
-    align-items: center;
-   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-    
-.linha-0 nav{
-  
-    display: flex;
-    justify-content: center;
-}
-
 .linha-1{
     display: flex;
-    justify-content: center;
-    align-items: center;
-   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
+    flex-direction: row;
     
-.linha-1 nav{
+}
+.card-1{
   
-    display: flex;
-    justify-content: center;
+    
+   display: inline-block;
+   align-items: center;
+   
 }
 
+.linha-1 .card-1{
+    width: 50%;
+   
+   
+}
+    
 .linha-2{
-
-    
     display: flex;
-    justify-content: center;
-    align-items: center;
-   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    flex-direction: row;
 }
+.linha-2 .card-1{
+    width: 25%;
     
-.linha-2 nav{
-  
+   
+}
+.linha-3{
     display: flex;
-    justify-content: center;
+    flex-direction: row;
+   
+}
+.linha-3 .card-1{
+    width: 34%;
+   
+   
 }
